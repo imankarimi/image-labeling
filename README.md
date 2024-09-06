@@ -16,8 +16,8 @@ This desktop application, built with Python using the Tkinter package, provides 
 1. **Clone the Repository:**
    Clone this repository to your local machine:
    ```bash
-   git clone HTTP_REPOSITORY_URL image-labeling-app
-   cd image-labeling-app
+   git clone HTTP_REPOSITORY_URL
+   cd image-labeling
    ```
 
 2. **Install Dependencies:**
